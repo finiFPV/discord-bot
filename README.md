@@ -1,2 +1,2 @@
-# eris-bot
-Discord bot made in eris-js
+# Ghast
+Discord bot made in discord.js
