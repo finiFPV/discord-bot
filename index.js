@@ -40,7 +40,7 @@ client.on('interactionCreate', async interaction => {
                         }
                     ]
                 }
-            ]});
+            ], ephemeral: interaction.member.id === ownderID});
             break;
         case 'setup':
             if (interaction.member.permissions.has("Administrator") || interaction.member.id === ownderID) {
