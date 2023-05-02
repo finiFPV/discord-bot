@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fininimini/eris-bot.git"
+    "url": "git+https://github.com/fininimini/discord-bot.git"
   },
   "author": "fini",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fininimini/eris-bot/issues"
+    "url": "https://github.com/fininimini/discord-bot/issues"
   },
-  "homepage": "https://github.com/fininimini/eris-bot#readme",
+  "homepage": "https://github.com/fininimini/discord-bot#readme",
   "dependencies": {
     "discord.js": "^14.7.1"
   }
