@@ -1,9 +1,8 @@
 const { Client, ChannelType, PermissionFlagsBits } = require('discord.js');
-const TOKEN = "***REMOVED***"
-const TestGuildID = "***REMOVED***"
+const TOKEN = ""
 const privateVoiceChannel = "➕ Create private channel"
 const privateChannelCategory = "Private Channels"
-const ownderID = "***REMOVED***"
+const ownderID = ""
 const client = new Client({ intents: 641 });
 
 
